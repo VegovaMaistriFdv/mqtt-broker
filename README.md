@@ -1,0 +1,1 @@
+## MQTT Broker for Fire Deparment Vegova module
